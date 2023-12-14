@@ -1,0 +1,14 @@
+{
+	"name": "Deno",
+	"build": { "dockerfile": "Dockerfile" },
+	"hostRequirements": { "cpus": 4},
+	"extensions": [
+		"github.copilot",
+		"denoland.vscode-deno"
+	],
+	"settings": { 
+		"deno.enable": true,
+		"deno.lint": true,
+		"editor.defaultFormatter": "denoland.vscode-deno"
+	}
+}
