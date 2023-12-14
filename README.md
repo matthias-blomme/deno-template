@@ -1,1 +1,2 @@
-# AI for education: lab programming with AI
+# AI for education
+## Lab programming with AI
